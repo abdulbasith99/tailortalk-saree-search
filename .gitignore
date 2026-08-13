@@ -1,0 +1,17 @@
+# Local saree image files - not needed on server, app loads images via URL
+data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Temp uploaded query images
+temp_uploads/
+
+# Environment / secrets
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
