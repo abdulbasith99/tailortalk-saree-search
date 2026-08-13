@@ -7,7 +7,6 @@ An AI agent that finds visually similar sarees from a catalogue of **1,000+ desi
 https://tailortalk-saree-search-y7kxkpjtfjf7ftl2iubqnh.streamlit.app
 
 
-*(To be filled in once deployed on Streamlit Community Cloud / Hugging Face Spaces — see Deployment section below)*
 
 ## ✨ Features
 
